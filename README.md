@@ -1,2 +1,3 @@
-# hyper-web-app-q7uw
-Automated issue comment bot repository
+# Hyper Web App Q7Uw
+
+Automated issue comment bot repository.
